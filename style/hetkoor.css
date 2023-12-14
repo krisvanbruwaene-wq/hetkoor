@@ -57,6 +57,7 @@ iframe {
   width: 55%;
   display: flex;
   background-color: #EEE;
+  font-variant: small-caps;
 }
 
 /* Style the navigation bar links */
