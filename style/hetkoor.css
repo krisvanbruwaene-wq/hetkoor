@@ -84,6 +84,7 @@ iframe {
   flex: 18%;
   background-color: #f1f1f1;
   padding: 20px;
+  color: #444;
 }
 
 /* Main center column */
@@ -115,5 +116,16 @@ iframe {
   .row, .navbar {   
     flex-direction: column;
   }
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
 }
+@media (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+
  
