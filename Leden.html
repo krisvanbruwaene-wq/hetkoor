@@ -100,20 +100,12 @@
       <div class="cookies">Onze website gebruikt <b>geen</b> cookies!</div>
     </div>
     <script type="text/javascript">
-       function fetch_data() {
-         event.preventDefault();
-         const xhttp = new XMLHttpRequest();
-         xhttp.onload = function() {
-           if (resp.substr(0,9) == '<!-- arch') { 
-             document.getElementById("archief").innerHTML = resp;
-           }
-           else if (resp.substr(0,9) == '<!-- link') { 
-             document.getElementById("links").innerHTML = resp;
-           }
-         }
-         xhttp.open("GET", "/archief.html", true);
-         xhttp.send();
-       }
+        let response = await fetch('https://hetkoor.bitbucket.io/archief.html');
+        let text = await response.text();
+        document.getElementById("archief").innerHTML = text;
+        let response = await fetch('https://hetkoor.bitbucket.io/links.html');
+        let text = await response.text();
+        document.getElementById("links").innerHTML = text;
     </script>
   </body>
 </html>
