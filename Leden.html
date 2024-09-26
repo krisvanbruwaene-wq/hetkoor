@@ -100,7 +100,7 @@
       <div class="cookies">Onze website gebruikt <b>geen</b> cookies!</div>
     </div>
     <script type="text/javascript">
-       function fetch_data(requestForm) {
+       function fetch_data() {
          event.preventDefault();
          const xhttp = new XMLHttpRequest();
          xhttp.onload = function() {
@@ -111,7 +111,7 @@
              document.getElementById("links").innerHTML = resp;
            }
          }
-         xhttp.open("GET", "archief.html");
+         xhttp.open("GET", "/archief.html", true);
          xhttp.send();
        }
     </script>
