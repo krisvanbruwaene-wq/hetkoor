@@ -1,4 +1,4 @@
-const divs = ["navbar", "archief", "links", "footer"];
+const divs = ["header", "navbar", "archief", "links", "footer"];
 divs.forEach(fetch_data);
 
 function fetch_data(value) {

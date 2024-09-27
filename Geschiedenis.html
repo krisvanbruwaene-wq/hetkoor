@@ -6,20 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira%20Sans" />
     <link rel="stylesheet" href="style/hetkoor.css" />
+    <script type="text/javascript" src="scripts/ssi.js" defer></script>
   </head>
   <body>
     <!-- Header -->
-    <div class="header">
-      <h2><a href="https://hetkoor.be/">Academiekoor August De Boeck</a></h2>
-      <h3>Enthousiast gemengd koor uit Asse</h3>
+    <div class="header" id="header">
     </div>
     <!-- Navigation Bar -->
-    <div class="navbar">
-       <a href="https://hetkoor.be/">Home</a>
-       <a href="Geschiedenis.html">Een beetje geschiedenis</a>
-       <a href="Dirigent.html">Dirigent J. Van der Beken</a>
-       <a href="Leden.html">Leden</a>
-       <a href="Jubileumconcert.html">Jubileumconcert</a>
+    <div class="navbar" id="navbar">
     </div>
     
     <!-- The flexible grid (content) -->
@@ -57,56 +51,13 @@
       </div>
 	  <!-- right side -->
       <div class="side">
-		  <h4 class="widget-title">Onze links</h4>
-		  <ul>
-		  	<li><a href="http://www.kunstas.be/" rel="noopener" target="_blank">KunstAs (Kunstenacademie Asse)</a></li>
-		  	<li><a href="https://www.cultuurdrongen.be/cultuur/culturele-verenigingen/overzicht-verenigingen/fasinant/" rel="noopener" title="Koor Fa.Si.Nant Drongen" target="_blank">Fa.Si.Nant</a></li>
-		  	<li><a href="https://www.pojedu.be" rel="noopener" target="_blank">Pojedu</a></li>
-		  </ul>
-		  <h4 class="widget-title">Archief</h4>
-		  <ul>
-		  	<li><a href="20231115.html">november 2023</a></li>
-		  	<li><a href="20231011.html">oktober 2023</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2022/09/'>september 2022</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2019/11/'>november 2019</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2019/03/'>maart 2019</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2018/12/'>december 2018</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2018/11/'>november 2018</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2018/07/'>juli 2018</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2018/05/'>mei 2018</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2017/12/'>december 2017</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2017/06/'>juni 2017</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2017/02/'>februari 2017</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2016/12/'>december 2016</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2016/07/'>juli 2016</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2016/04/'>april 2016</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2016/02/'>februari 2016</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2015/11/'>november 2015</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2015/03/'>maart 2015</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2015/02/'>februari 2015</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2014/12/'>december 2014</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2014/08/'>augustus 2014</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2014/05/'>mei 2014</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2014/02/'>februari 2014</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2013/06/'>juni 2013</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2013/03/'>maart 2013</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2012/10/'>oktober 2012</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2012/09/'>september 2012</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2012/07/'>juli 2012</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2012/05/'>mei 2012</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2011/03/'>maart 2011</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2011/01/'>januari 2011</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2010/09/'>september 2010</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2010/06/'>juni 2010</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2009/11/'>november 2009</a></li>
-		  	<li><a href='https://hetkoor.wordpress.com/2009/03/'>maart 2009</a></li>
-		  </ul>
+		  <div id="links"></div>
+		  <div id="archief"></div>
+		  <!--#include virtual="archief.html" -->
       </div> <!-- right side -->
     </div>  <!-- row -->
 
-    <div class="footer">
-      <p><a href="https://hetkoor.be/">Het koor</a></p>
-      <div class="cookies">Onze website gebruikt <b>geen</b> cookies!</div>
+    <div class="footer" id="footer">
     </div>
   </body>
 </html>
