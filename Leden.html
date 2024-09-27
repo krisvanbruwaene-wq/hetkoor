@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira%20Sans" />
     <link rel="stylesheet" href="style/hetkoor.css" />
-    <script type="text/javascript" src="scripts/ssi.js"></script>
+    <!-- <script type="text/javascript" src="scripts/ssi.js"></script> -->
   </head>
   <body>
     <!-- Header -->
@@ -100,5 +100,19 @@
       <p><a href="https://hetkoor.be/">Het Koor</a></p>
       <div class="cookies">Onze website gebruikt <b>geen</b> cookies!</div>
     </div>
+    <script type="text/javascript">
+        const divs = ["archief", "links"];
+        divs.foreach(fetch_data);
+        
+        function fetch_data(value, index, array) {
+//          event.preventDefault();
+          const xhttp = new XMLHttpRequest();
+          xhttp.onload = function() {
+              document.getElementById("value").innerHTML = this.responseText;
+          }
+          xhttp.open("GET", value+".txt"); // async=true
+          xhttp.send();
+        }
+    </script>
   </body>
 </html>
