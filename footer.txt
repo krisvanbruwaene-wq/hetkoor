@@ -1,0 +1,3 @@
+<!-- footer -->
+      <p><a href="https://hetkoor.be/">Het Koor</a></p>
+      <div class="cookies">Onze website gebruikt <b>geen</b> cookies!</div>
