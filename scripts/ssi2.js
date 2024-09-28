@@ -1,4 +1,4 @@
-function clear() {
+function clear_content() {
   // clear variable page elements
   const side = document.getElementById("side"); // hide previous image (innerHTML="" and style.display='none', .removeChild; don't work )
   const img = side.getElementsByTagName("img")[0];
