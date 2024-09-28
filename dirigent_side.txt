@@ -1,0 +1,1 @@
+<img src="images/johan_in_actie.jpg"  style="float:left;width:100%" alt="Johan" />

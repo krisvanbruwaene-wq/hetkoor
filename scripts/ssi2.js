@@ -3,7 +3,7 @@ function clear_content() {
   document.getElementById("side").innerHTML = "";
   document.getElementById("main").innerHTML = "";
 }
-/*	
+
 function fetch_data(value) {
   // image or text/html?
   const request = value.split(".");
@@ -30,7 +30,7 @@ function fetch_data(value) {
  * Laden zal vermoedelik ook trager gaan: figuren zelf moeten nadien nog opgehaald worden.
  * Gaat dat vanzelf gebeuren? Waarschijnlik wel: het gebeurt nu ook in fetch_data()
  * nadat we <img src='..' ingevoegd hebben in side.
- */
+ 
 function fetch_data(value, target) {
 	const xhttp = new XMLHttpRequest();
     xhttp.onload = function() {
@@ -39,4 +39,4 @@ function fetch_data(value, target) {
     xhttp.open("GET", value); // async=true
     xhttp.send();
 }
-
+*/
