@@ -13,7 +13,9 @@ function fetch_data(value) {
   let ext       = request[1];
   if ((ext == "png") || (ext == "jpg") || (ext == "jpeg"))
   {
-     document.getElementById("side").getElementsByTagName("img")[0].style.display='inline'; // reveal previously hidden image
+     const side = document.getElementById("side"); // hide previous image (innerHTML="" and style.display='none', .removeChild; don't work )
+     const img = side.getElementsByTagName("img")[0];
+     img.style.display = 'inline';
      document.getElementById("side").innerHTML = "<img src='"+value+"' style='float:left;width:100%' alt='"+section+"'>";
   }
   else if (ext == "txt")
