@@ -17,7 +17,7 @@ function fetch_data(value) {
   {		  
     const xhttp = new XMLHttpRequest();
     xhttp.onload = function() {
-      document.getElementById(section).innerHTML = this.responseText;
+      document.getElementById("main").innerHTML = this.responseText;
     }
     xhttp.open("GET", value); // async=true
     xhttp.send();
