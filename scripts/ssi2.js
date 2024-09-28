@@ -1,8 +1,9 @@
 function clear_content() {
   // clear variable page elements
-  const side = document.getElementById("side"); // hide previous image (innerHTML="" and style.display='none', .removeChild; don't work )
-  const img = side.getElementsByTagName("img")[0];
-  img.style.display = 'none';
+  //const side = document.getElementById("side"); // hide previous image (innerHTML="" and style.display='none', .removeChild; don't work )
+  //const img = side.getElementsByTagName("img")[0];
+  //img.style.display = 'none';
+  document.getElementById("side").innerHTML = "";
   console.log("Image hidden");
   document.getElementById("main").innerHTML = "";
 }
