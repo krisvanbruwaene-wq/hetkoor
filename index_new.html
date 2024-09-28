@@ -26,9 +26,11 @@
     <div class="row">
 	  <!-- left side -->
       <div class="side" id="side">
+		  <!-- For contents: see script at botton -->
       </div>
       <!-- center -->
       <div class="main" id="main">
+		  <!-- For contents: see script at botton -->
       </div>  
 	  <!-- right side -->
       <div class="side">
@@ -88,9 +90,9 @@
       <div class="cookies">Onze website gebruikt <b>geen</b> cookies!</div>
     </div>
     <script>
-      document.onload = function() {
-		  fetch_data("main.txt");
-		  fetch_data("images/schoen_und_lieblich.png");
+      window.onload = function() {
+		  fetch_data("main.txt"); // id main
+		  fetch_data("images/schoen_und_lieblich.png"); // id side
       }
     </script>
   </body>
