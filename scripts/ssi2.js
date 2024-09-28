@@ -4,7 +4,7 @@ function fetch_data(value) {
   let ext       = request[1];
   if ((ext == "png") || (ext == "jpg") || (ext == "jpeg"))
   {
-     document.getElementById("side").innerHTML = "<img src='"+value+"'>";
+     document.getElementById("side").innerHTML = "<img src='"+value+"  style='float:left;width:100%' alt='"+section+"'>";
   }
   else if (ext == "txt")
   {		  
