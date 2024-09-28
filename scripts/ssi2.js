@@ -1,7 +1,10 @@
-function fetch_data(value) {
+function clear() {
   // clear variable page elements
   document.getElementById("side").innerHTML = "";
   document.getElementById("main").innerHTML = "";
+}
+	
+function fetch_data(value) {
   // image or text/html?
   const request = value.split(".");
   let section   = request[0];
