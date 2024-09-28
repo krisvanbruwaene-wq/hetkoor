@@ -1,10 +1,6 @@
 function clear_content() {
   // clear variable page elements
-  //const side = document.getElementById("side"); // hide previous image (innerHTML="" and style.display='none', .removeChild; don't work )
-  //const img = side.getElementsByTagName("img")[0];
-  //img.style.display = 'none';
   document.getElementById("side").innerHTML = "";
-  console.log("Image hidden");
   document.getElementById("main").innerHTML = "";
 }
 	
@@ -15,7 +11,7 @@ function fetch_data(value) {
   let ext       = request[1];
   if ((ext == "png") || (ext == "jpg") || (ext == "jpeg"))
   {
-     document.getElementById("side").innerHTML = "<img src='"+value+"' style='float:left;width:100%;display:inline' alt='"+section+"'>";
+     document.getElementById("side").innerHTML = "<img src='"+value+"' style='float:left;width:100%;' alt='"+section+"'>";
   }
   else if (ext == "txt")
   {		  
