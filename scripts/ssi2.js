@@ -1,4 +1,8 @@
 function fetch_data(value) {
+  // clear variable page elements
+  document.getElementById("side").innerHTML = "";
+  document.getElementById("main").innerHTML = "";
+  // image or text/html?
   const request = value.split(".");
   let section   = request[0];
   let ext       = request[1];
