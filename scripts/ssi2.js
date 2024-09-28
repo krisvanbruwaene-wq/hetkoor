@@ -3,6 +3,7 @@ function clear() {
   const side = document.getElementById("side"); // hide previous image (innerHTML="" and style.display='none', .removeChild; don't work )
   const img = side.getElementsByTagName("img")[0];
   img.style.display = 'none';
+  console.log("Image hidden");
   document.getElementById("main").innerHTML = "";
 }
 	
