@@ -16,11 +16,11 @@
     </div>
     <!-- Navigation Bar -->
     <div class="navbar" id="navbar">
-       <a href="https://hetkoor.be/">Home</a>
-       <a href="Geschiedenis.html">Een beetje geschiedenis</a>
+       <a href="https://hetkoor.bitbucket.io/index.html">Home</a>
+       <a onClick="clear(); fetch_data('geschiedenis.txt'); true">Een beetje geschiedenis</a>
        <a onClick="clear(); fetch_data('dirigent.txt'); fetch_data('images/johan_in_actie.jpg'); true">Dirigent J. Van der Beken</a>
-       <a href="Leden.html">Leden</a>
-       <a href="Jubileumconcert.html">Jubileumconcert</a>
+       <a onClick="clear(); fetch_data('leden.txt'); true">Leden</a>
+       <a onClick="clear(); fetch_data('jubileumconcert.txt'); true">Jubileumconcert</a>
     </div>
     <!-- The flexible grid (content) -->
     <div class="row">
@@ -44,8 +44,8 @@
 		  <div id="archief">
 		  <h4 class="widget-title">Archief</h4>
 		  <ul>
-		  	<li><a href="20231115.html">november 2023</a></li>
-		  	<li><a href="20231011.html">oktober 2023</a></li>
+		  	<li><a onClick="clear(); fetch_data('20231115.txt'); true">november 2023</a></li>
+		  	<li><a onClick="clear(); fetch_data('20231011.txt'); true">oktober 2023</a></li>
 		  	<li><a href='https://hetkoor.wordpress.com/2022/09/'>september 2022</a></li>
 		  	<li><a href='https://hetkoor.wordpress.com/2019/11/'>november 2019</a></li>
 		  	<li><a href='https://hetkoor.wordpress.com/2019/03/'>maart 2019</a></li>
