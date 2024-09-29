@@ -18,9 +18,9 @@
     <div class="navbar" id="navbar">
        <a href="https://hetkoor.bitbucket.io/index.html">Home</a>
        <a onClick="clear_content(); fetch_data('geschiedenis.txt','main'); true">Een beetje geschiedenis</a>
-       <a onClick="clear_content(); fetch_data('dirigent.txt','main'); fetch_data('dirigent_side.txt', 'side'); true">Dirigent J. Van der Beken</a>
+       <a onClick="clear_content(); fetch_data('dirigent.txt','main'); fetch_data('images/johan_in_actie.jpg', 'side'); true">Dirigent J. Van der Beken</a>
        <a onClick="clear_content(); fetch_data('leden.txt','main'); true">Leden</a>
-       <a onClick="clear_content(); fetch_data('jubileumconcert.txt','main'); fetch_data('sponsors_side.txt','side'); true">Jubileumconcert</a>
+       <a onClick="clear_content(); fetch_data('jubileumconcert.txt','main'); fetch_data('images/sponsors.png','side'); true">Jubileumconcert</a>
     </div>
     <!-- The flexible grid (content) -->
     <div class="row">
@@ -44,7 +44,7 @@
 		  <div id="archief">
 		  <h4 class="widget-title">Archief</h4>
 		  <ul>
-		  	<li><a onClick="clear_content(); fetch_data('20231115.txt', 'main'); fetch_data('kobbegem_2011_side.txt','side'); true">november 2023</a></li>
+		  	<li><a onClick="clear_content(); fetch_data('20231115.txt', 'main'); fetch_data('images/kobbegem_2011.jpg','side'); true">november 2023</a></li>
 		  	<li><a onClick="clear_content(); fetch_data('20231011.txt', 'main'); true">oktober 2023</a></li>
 		  	<li><a href='https://hetkoor.wordpress.com/2022/09/'>september 2022</a></li>
 		  	<li><a href='https://hetkoor.wordpress.com/2019/11/'>november 2019</a></li>
@@ -92,7 +92,7 @@
     <script>
       window.onload = function() {
 		  fetch_data("main.txt","main");
-		  fetch_data("affiche.txt","side");
+		  fetch_data("images/schoen_und_lieblich.png","side");
       }
     </script>
   </body>

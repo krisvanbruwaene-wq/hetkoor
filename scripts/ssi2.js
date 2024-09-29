@@ -23,7 +23,7 @@ function fetch_data(value) {
     xhttp.send();
   }
 }
-*/
+
 /* Idee voor de toekomst: funksie splitsen in fetch_main() en fetch_side()
  * Dan kunnen we ook html (met links naar src=figuur) in de sidebar stoppen.
  * Nadeel: elke pagina met sidebar krijgt dan 2 bestanden (x.txt voor main en x_side.txt voor side)
