@@ -1,6 +1,0 @@
-<!-- Navigation Bar -->
-       <a href="https://hetkoor.be/">Home</a>
-       <a href="Geschiedenis.html">Een beetje geschiedenis</a>
-       <a href="Dirigent.html">Dirigent J. Van der Beken</a>
-       <a href="Leden.html">Leden</a>
-       <a href="Jubileumconcert.html">Jubileumconcert</a>
