@@ -10,7 +10,6 @@ body {
 
 /* Do not underline links */
 a {
-  display: block;
   text-decoration: none;
   color: #333;
 }
