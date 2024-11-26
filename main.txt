@@ -1,19 +1,17 @@
-        <h2>Concerten</h2>
-          <h3>"Schön und lieblich", het Academiekoor zingt zijn favorieten</h3>
+<div align="center">
+<h3 color="red">Samen kerstliederen zingen</h3>
 
-          <p>Op zondag 17 november om 16.00 uur vindt in de kerk van Walfergem 
-          het herfstconcert plaats van het Academiekoor August De Boeck onder de 
-          titel “Schön und Lieblich”: het Academiekoor zingt zijn favorieten. 
-          Het is een overzicht van de mooiste composities die het koor in de 
-          afgelopen twintig jaar heeft gezongen onder de bezielende leiding van 
-          Johan Van der Beken, een soort <i>Best of</i> dus. Dan hebben we het over de 
-          oratoria Paulus van Mendelssohn en Die Schöpfung van Haydn (uitgevoerd 
-          in resp. 2005 en 2009), maar ook het fameuze Requiem van Mozart, waarmee 
-          we de Groote Oorlog van 1914 herdachten. Daarnaast zijn er composities 
-          van Purcell, Fauré, Andrew Lloyd Webber en andere toondichters.</p>
-		  <p>We zijn blij dat het Jeugdkoor ons komt vergezellen, geleid door 
-		  Josefien Vercruysse. Aan de piano wijst Merel Pauwels ons de weg.</p>
-          <p>Een plaatsje voor het concert kan je reserveren bij een van onze 
-          koorleden of via <a style="text-decoration: underline; text-decoration-color: blue" href="mailto:kaarten@hetkoor.be">kaarten@hetkoor.be</a>
-          Hiervoor wordt 5 euro administratiekosten gevraagd, kinderen onder twaalf jaar gratis. 
-          Na het concert schenken wij u een drankje, geheel kosteloos.</p>
+<p color="green">4de Adventszondag 22 december 2024<br>
+Sint-Martinuskerk Asse</p>
+
+<img src="images/kerst_2024.png">
+
+<h4 color="red">Orgel</h4>
+<h4 color="red">Samenzang</h4>
+<h4 color="red">Kerstvertelling</h4>
+<h4 style="italic" color="green">'t Kindeke Jezus in Vlaanderen</h4>
+<h4 color="red">Academiekoor Asse</h4>
+<h3 color="green">Zingen is tweemaal bidden</h3>
+<h3 color="red">Welkom!</h3>
+<p color="green">Inkom gratis</p>
+</div>
