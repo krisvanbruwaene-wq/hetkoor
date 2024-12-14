@@ -14,5 +14,5 @@ Sint-Martinuskerk Asse</p>
 <h3 style="color:green;">Zingen is tweemaal bidden</h3>
 <h3 style="color:red;">Welkom!</h3>
 <p style="color:green;">Inkom gratis</p>
-<p>Op dinsdag 24 december zingen wij (vanaf 17.45 uur) de Kerstmis in de kerk van Kobbegem. Na de mis wordt er een glaasje geschonken.</p>
+<p>Op dinsdag 24 december zingen wij (vanaf 17.15 uur) de Kerstmis in de kerk van Kobbegem. Na de mis wordt er een glaasje geschonken.</p>
 </div>
