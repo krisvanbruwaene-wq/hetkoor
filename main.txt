@@ -1,5 +1,5 @@
-<div align="center">
-<h3 style="color:red;">Bright Cecilia!</h3>
+<div align="left">
+<h3>Bright Cecilia!</h3>
 
 <p>In november 2025 brengen wij U graag een concertreeks rond Cecilia-composities onder de algemene leiding van Geert Soenen.</p>
 
