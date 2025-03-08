@@ -1,0 +1,19 @@
+<h2>Maandelijks archief: <i>december 2024</i></h2>
+<div align="center">
+<h3 style="color:red;">Samen kerstliederen zingen</h3>
+
+<p style="color:green;">4de Adventszondag 22 december 2024<br>
+Sint-Martinuskerk Asse</p>
+
+<img src="images/kerst_2024.png">
+
+<h4 style="color:red;">Orgel</h4>
+<h4 style="color:red;">Samenzang</h4>
+<h4 style="color:red;">Kerstvertelling</h4>
+<h4 style="font-style:italic;color:green;">'t Kindeke Jezus in Vlaanderen</h4>
+<h4 style="color:red;">Academiekoor Asse</h4>
+<h3 style="color:green;">Zingen is tweemaal bidden</h3>
+<h3 style="color:red;">Welkom!</h3>
+<p style="color:green;">Inkom gratis</p>
+<p>Op dinsdag 24 december zingen wij (vanaf 17.15 uur) de Kerstmis in de kerk van Kobbegem. Na de mis wordt er een glaasje geschonken.</p>
+</div>

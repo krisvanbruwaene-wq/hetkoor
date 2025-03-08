@@ -1,18 +1,24 @@
 <div align="center">
-<h3 style="color:red;">Samen kerstliederen zingen</h3>
+<h3 style="color:red;">Bright Cecilia!</h3>
 
-<p style="color:green;">4de Adventszondag 22 december 2024<br>
-Sint-Martinuskerk Asse</p>
+<p>In november 2025 brengen wij U graag een concertreeks rond Cecilia-composities onder de algemene leiding van Geert Soenen.</p>
 
-<img src="images/kerst_2024.png">
+<p>Tijdens het concert zal er een bloemlezing uit de Cecilia-odes van de twee meest vooraanstaande Engelse barokcomponisten opgevoerd worden. 
+<i>Welcome to all the Pleasures</i> en <i>Hail! Bright Cecilia</i> van Henry Purcell (1659-1695) en <i>Ode for St. Cecilia’s Day</i> van Georg Friedrich Händel (1685-1759).</p>
 
-<h4 style="color:red;">Orgel</h4>
-<h4 style="color:red;">Samenzang</h4>
-<h4 style="color:red;">Kerstvertelling</h4>
-<h4 style="font-style:italic;color:green;">'t Kindeke Jezus in Vlaanderen</h4>
-<h4 style="color:red;">Academiekoor Asse</h4>
-<h3 style="color:green;">Zingen is tweemaal bidden</h3>
-<h3 style="color:red;">Welkom!</h3>
-<p style="color:green;">Inkom gratis</p>
-<p>Op dinsdag 24 december zingen wij (vanaf 17.15 uur) de Kerstmis in de kerk van Kobbegem. Na de mis wordt er een glaasje geschonken.</p>
+<p>Ook werken van 18de eeuwse meesters van eigen bodem zullen uitgevoerd worden.
+Het <i>Salve Regina</i> van Willem Gommaar Kennis (1717-1789) is een vijfdelig werk voor koor, sopraansolo en tenorsolo met strijkersensemble en orgel. 
+Het motet <i>Quam terribilia</i> van Henricus Jacobus De Croes (1705-1786) is een compilatie van verzen uit psalmen en hymnen.
+De muziek zit vol inspirerende melodieën en verrassende harmonieën en doet vaak aan Vivaldi of Händel denken.</p>
+
+<p>Deze veelzijdige werken zullen uitgevoerd worden in samenwerking met het Academiekoor Kunstas uit Asse, koor Pojedu uit Melle, het koor Fa.Si.nant uit Drongen
+en de musici van het kamerorkest Chapelle de Lorraine. 
+Als vocale solisten zullen Franches Dhont (sopraan), Joris Bosman (tenor) en Johan Van der Beken (bas-bariton), voor u optreden.</p>
+<ul>
+  <li>22 november 2025 - Kerk Merelbeke - 20 uur.</li>
+  <li>29 november 2025 - Cultuurcentrum Asse - 20 uur</li>
+</ul
+<ul>
+  <li>Voorverkoop €25 </li>
+  <li>Aan de kassa €28</li>
 </div>
