@@ -4,14 +4,19 @@ function clear_content() {
   document.getElementById("main").innerHTML = "";
 }
 
-function fetch_data(value) {
+function fetch_data(value, link) {
   // image or text/html?
   const request = value.split(".");
   let section   = request[0];
   let ext       = request[1];
   if ((ext == "png") || (ext == "jpg") || (ext == "jpeg"))
   {
-     document.getElementById("side").innerHTML = "<img src='"+value+"' style='float:left;width:100%;' alt='"+section+"'>";
+     if (link == "") {
+         document.getElementById("side").innerHTML = "<img src='"+value+"' style='float:left;width:100%;' alt='"+section+"'>";
+     }
+     else
+         document.getElementById("side").innerHTML = "<a href='link'><img src='"+value+"' style='float:left;width:100%;' alt='"+section+"'></a>";
+     }
   }
   else if (ext == "txt")
   {		  
