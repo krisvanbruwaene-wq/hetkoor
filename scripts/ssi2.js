@@ -15,7 +15,7 @@ function fetch_data(value, link) {
          document.getElementById("side").innerHTML = "<img src='"+value+"' style='float:left;width:100%;' alt='"+section+"'>";
      }
      else
-         document.getElementById("side").innerHTML = "<a href='link'><img src='"+value+"' style='float:left;width:100%;' alt='"+section+"'></a>";
+         document.getElementById("side").innerHTML = "<a href='"+link+"'><img src='"+value+"' style='float:left;width:100%;' alt='"+section+"'></a>";
      }
   }
   else if (ext == "txt")
