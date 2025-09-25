@@ -14,7 +14,7 @@ function fetch_data(value, link) {
      if (link == "") {
          document.getElementById("side").innerHTML = "<img src='"+value+"' style='float:left;width:100%;' alt='"+section+"'>";
      }
-     else
+     else {
          document.getElementById("side").innerHTML = "<a href='"+link+"'><img src='"+value+"' style='float:left;width:100%;' alt='"+section+"'></a>";
      }
   }
