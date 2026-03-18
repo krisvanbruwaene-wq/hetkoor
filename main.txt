@@ -1,25 +1,21 @@
 <div align="left">
-<h3>Bright Cecilia!</h3>
+<p>Zaterdag 21 maart treden we op met het strijkorkest van de KunstAs-academie in ons jaarlijks toonmoment, 
+van 10.00 tot 11.00 uur in de podiumzaal van de academie (Spiegelstraat 3 , 1730 Asse), 
+op de benedenverdieping (hoofdingang en dan naar links).</p>
 
-<p>In november 2025 brengen wij u graag een concertreeks rond Cecilia-composities onder de algemene leiding van Geert Soenen.</p>
+<p>Dirigenten Peter Hellemond en Johan Van der Beken, piano: Merel Pauwels.<p>
 
-<p>Tijdens het concert voeren we een bloemlezing op uit de Cecilia-odes van de twee meest vooraanstaande Engelse barokcomponisten. 
-<i>Welcome to all the Pleasures</i> en <i>Hail! Bright Cecilia</i> van Henry Purcell (1659-1695) en <i>Ode for St. Cecilia’s Day</i> van Georg Friedrich Händel (1685-1759).</p>
+<p>Programma:</p>
+<table border="0">
 
-<p>We voeren ook werken uit van 18de eeuwse meesters van eigen bodem.
-Het <i>Salve Regina</i> van Willem Gommaar Kennis (1717-1789) is een vijfdelig werk voor koor, sopraansolo en tenorsolo met strijkersensemble en orgel. 
-Het motet <i>Quam terribilia</i> van Henricus Jacobus De Croes (1705-1786) is een compilatie van verzen uit psalmen en hymnen.
-De muziek zit vol inspirerende melodieën en verrassende harmonieën en doet vaak aan Vivaldi of Händel denken.</p>
-
-<p>Deze veelzijdige werken zullen uitgevoerd worden in samenwerking met het Academiekoor Kunstas uit Asse, koor Pojedu uit Melle, het koor Fa.Si.nant uit Drongen
-en de musici van het kamerorkest Chapelle de Lorraine. 
-Als vocale solisten zullen Miek Union (sopraan), Joris Bosman (tenor) en Johan Van der Beken (bas-bariton) voor u optreden.</p>
-<ul>
-  <li>22 november 2025 - Kerk Merelbeke - 20 uur.</li>
-  <li>29 november 2025 - Cultuurcentrum Asse - 20 uur - <a href="https://www.ccasse.be/podium/bright-cecilia">kaarten</a></li>
-</ul>
-<ul>
-  <li>Voorverkoop € 25 </li>
-  <li>Aan de kassa € 28</li>
-</ul>
-</div>
+<tr><td>Dragon Hunter            </td><td>Richard Meyer                                   </td></tr>                                                                         
+<tr><td>Strings on Fire          </td><td>C.M. Bernotas / arr. Pietro Bocca Dell’Inferno  </td></tr>
+<tr><td>How to Train Your Octopus</td><td>James Powell / arr. Pietro Bocca Dell’Inferno   </td></tr>
+<tr><td>Ave Verum Corpus         </td><td>W.A. Mozart                                     </td></tr>
+<tr><td>Introitus uit Requiem    </td><td>W.A. Mozart / arr. Pietro Bocca Dell’Inferno    </td></tr>
+<tr><td>Lacrimosa uit Requiem    </td><td>W.A. Mozart                                     </td></tr>
+<tr><td>Hongaarse Dans nr 5      </td><td>Johannes Brahms / arr. Pietro Bocca Dell’Inferno</td></tr>
+<tr><td>Ik hou van u             </td><td>Noordkaap/ Chris Carlier                        </td></tr>
+<table>
+																						  </td></tr>
+<p>Welkom, gratis toegang.</p>
