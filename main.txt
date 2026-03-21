@@ -1,23 +1,9 @@
 <div align="left">
-<h3>In the spotlights</h3>
-<p>Zaterdag 21 maart treden we op met het strijkorkest van de KunstAs-academie in ons jaarlijks toonmoment, 
-van 10.00 tot 11.00 uur in de podiumzaal van de academie (Spiegelstraat 3 , 1730 Asse), 
-op de benedenverdieping (hoofdingang en dan naar links).</p>
+<h3>Onze komende activiteiten</h3>
+<ul>
+<li>Op 25 april om 17 uur luisteren we de academische zitting op van de viering ’50 jaar Asse-Ilsede’.</li>
+<li>Op 9, 10 en 11 september in Asse verlenen we medewerking aan het Hopduvelweekend met deelname aan de Hopduvelstoet op 11 september. Thema 70 jaar Hopduvel.</li>
+<li>Op 21 november om 20u in St Martinuskerk te Asse het Requiem van Mozart met Harmonie</li>
+</ul>
+</div>  
 
-<p>Dirigenten Peter Hellemond en Johan Van der Beken, piano: Merel Pauwels.<p>
-
-<p>Programma:</p>
-<table border="0">
-
-<tr><td>Dragon Hunter            </td><td>Richard Meyer                                   </td></tr>                                                                         
-<tr><td>Strings on Fire          </td><td>C.M. Bernotas / arr. Pietro Bocca Dell’Inferno  </td></tr>
-<tr><td>How to Train Your Octopus</td><td>James Powell / arr. Pietro Bocca Dell’Inferno   </td></tr>
-<tr><td>Ave Verum Corpus         </td><td>W.A. Mozart                                     </td></tr>
-<tr><td>Introitus uit Requiem    </td><td>W.A. Mozart / arr. Pietro Bocca Dell’Inferno    </td></tr>
-<tr><td>Lacrimosa uit Requiem    </td><td>W.A. Mozart                                     </td></tr>
-<tr><td>Hongaarse Dans nr 5      </td><td>Johannes Brahms / arr. Pietro Bocca Dell’Inferno</td></tr>
-<tr><td>Ik hou van u             </td><td>Noordkaap/ Chris Carlier                        </td></tr>
-<table>
-
-<p>Welkom, gratis toegang.</p>
-</div>
