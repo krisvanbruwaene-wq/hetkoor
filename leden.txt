@@ -22,10 +22,10 @@
 			 	<td>Leen Fonteyne      </td>	<td>Jennifer Savoye        </td>		<td>                  </td>	<td>Kris Van Bruwaene</td>
 		    </tr>                                                                                                       
 		    <tr>                                                                                                        
-				<td>Valerie Gheysens   </td>	<td>Christine Vandefonteyne</td>		<td>                  </td>	<td>Jo Van Hove      </td>
+				<td>Valerie Gheysens   </td>	<td>Christine Vandefonteyne</td>		<td>                  </td>	<td>Johan Van der Beken</td>
 			</tr>                                   
 			<tr>                                    
-				<td>Kathy Janssens     </td>	<td>Rita Vandeloo          </td>
+				<td>Kathy Janssens     </td>	<td>Rita Vandeloo          </td>		<td>                  </td>	<td>Jo Van Hove      </td>
 			</tr>                                   
 			<tr>                                    
 				<td>Maria Legrand      </td>	<td>Marianne Vandenbussche </td>
