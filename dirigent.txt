@@ -1,35 +1,13 @@
-        <h2>Dirigent: J. Van der Beken</h2>
-        <p>Johan Van der Beken (°Asse, 30-06-1958)
-        studeerde notenleer, harmonie, muziekgeschiedenis,
-        muziekpedagogie en koordirectie aan de Koninklijke
-        Muziekconservatoria van Brussel en Antwerpen. Hij
-        vervolmaakte zijn koordirectiestudies aan de Kurt
-        Thomas Stichting in Den Haag.</p>
-        <p>In het kader van zijn opleiding volgde hij
-        stemvorming bij diverse leerkrachten, o.a. bij Jan
-        Caals, Bernadette Degelin, Klaziene van der Vinne,
-        Dina Grossberger en Joris Bosman.</p>
-        <p>Hij was gedurende 10 jaar de bezieler van het
-        vocaal ensemble ‘Zangenzo’ te Asse. Bij het
-        barokensemble ‘Musica Aeterna’ zong hij als
-        basbariton en speelde hij klavecimbel. In 1986 werd
-        hij dirigent van het gemengd koor ‘Pojedu’ uit
-        Melle. Sedert 1992 leidt hij het academiekoor
-        ‘August De Boeck’ te Asse en van 2005 tot aan zijn
-        pensioen in 2021 ook het jeugdkoor van die
-        academie. Hij was tevens leraar Algemene Muzikale
-        Vorming en Samenzang in de afdelingen Asse, Opwijk
-        en Merchtem.</p>
-        <p>Als koordirigent werkte hij, voor werken met
-        koor en orkest, de voorbije jaren samen met La
-        Chapelle de Loraine, het Waregems Kamerorkest en
-        Arc-en-ciel.</p>
-        <p>Van 2021 tot halfweg 2023 was hij dirigent van
-        het gemengd koor ‘Amicale’ uit Malderen.</p>
-        <p>Als organist volgde hij les bij Edmond
-        Saveniers, Kristiaan Van Ingelgem en Stanislas
-        Deriemaeker. Samen met Pater Gabriël Willems
-        stichtte hij in 1990 de Orgelkring Asse-Hopland,
-        die het orgellandschap van Asse en omgeving
-        kritisch opvolgt en jaarlijks een drietal
-        orgelbespelingen organiseert.</p>
+        <h2>Dirigent: Joris Bosman</h2>
+        <p>Joris Bosman studeerde piano in Leuven en zang in Brussel, Utrecht, Londen en München. 
+        Hij ontwikkelde zich als solist in oratorium, lied en opera en bekwaamde zich voornamelijk 
+        in Bachrepertoire. Hij deed ook veel ervaring op als korist, met o.a. het Vlaams Radiokoor, 
+        Collegium Vocale, The Sixteen, Currende en in vocale ensembles waaronder de Malufi-singers 
+        en The King Singers.</p>
+        <p>Joris is ook ervaren acteur en bekend operettezanger en geeft les in de academies van 
+        Asse en Ninove.</p>
+        <p>Als vocale coach gaat zijn aandacht naar alle parameters die een gezond gebruik van 
+        ademhaling, steun, klinkerplaatsing, medeklinkerarticulatie en resonantie verbeteren. 
+        "Zoals de vioolbouwer aan een instrument sleutelt", zo helpt hij elke zanger zijn eigen 
+        instrument op een comfortabele manier te gebruiken binnen het koor. Op die manier kan elke 
+        koorzanger bijdragen tot een mooie koorklank waar vocale verbinding centraal staat.</p>
