@@ -1,8 +1,7 @@
 <div align="left">
 <h3>In the spotlights</h3>
-<p>Zaterdag 21 maart treden we op met het strijkorkest van de KunstAs-academie in ons jaarlijks toonmoment, 
-van 10.00 tot 11.00 uur in de podiumzaal van de academie (Spiegelstraat 3 , 1730 Asse), 
-op de benedenverdieping (hoofdingang en dan naar links).</p>
+<p>Zaterdag 21 maart traden we op met het strijkorkest van de KunstAs-academie in ons jaarlijks toonmoment, 
+van 10.00 tot 11.00 uur in de podiumzaal van de academie.</p>
 
 <p>Dirigenten Peter Hellemond en Johan Van der Beken, piano: Merel Pauwels.<p>
 
@@ -18,6 +17,4 @@ op de benedenverdieping (hoofdingang en dan naar links).</p>
 <tr><td>Hongaarse Dans nr 5      </td><td>Johannes Brahms / arr. Pietro Bocca Dell’Inferno</td></tr>
 <tr><td>Ik hou van u             </td><td>Noordkaap/ Chris Carlier                        </td></tr>
 <table>
-
-<p>Welkom, gratis toegang.</p>
 </div>
