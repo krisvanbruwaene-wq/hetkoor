@@ -10,7 +10,7 @@ De innige verwevenheid van tekst en muziek illustreren de genialiteit van Mozart
 op 21 november om 20 uur in de Sint-Martinuskerk te Asse. De solisten zijn sopraan Marnie Deweer, alt Anna Nuytten, tenor Joris Bosman
 en bas Johan Van der Beken.</p>
 
-<p>De tickets zijn <span "text-decoration: underline; text-decoration-color: blue"><a href="https://shop.stamhoofd.be/requiem">online verkrijgbaar</a></span></p>
+<p>De tickets zijn <a href="https://shop.stamhoofd.be/requiem" style="text-decoration: underline; text-decoration-color: blue">online verkrijgbaar</a></p>
 
 <p>Mis het niet!</p>
 </div>  
