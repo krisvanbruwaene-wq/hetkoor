@@ -1,11 +1,17 @@
 <div align="left">
 <h3>Mozarts Requiem</h3>
-<ul>
+<p>
 Een hoogtepunt van de koormuziek. Mozarts laatste werk, geschreven op zijn doodsbed. 
 Hij heeft het niet kunnen voltooien maar het is afgewerkt door zijn leerling Franz Xaver Süßmayr, met schetsen en aanwijzingen van de meester.
 Het weemoedige Lacrimosa, waarin je de tranen hoort druppelen, is een vast onderdeel van Klara's Top 100.
-De innige verwevenheid van tekst en muziek illustreren de genialiteit van Mozart als operacomponist.
-Wij voeren het maar één keer uit met d'Harmonie onder leiding van Gregory Willems, op 21 november om 20 uur in de Sint-Martinuskerk te Asse. Mis het niet!
-</ul>
+De innige verwevenheid van tekst en muziek illustreren de genialiteit van Mozart als operacomponist.</p>
+
+<p>Wij voeren het maar één keer uit met het koor Omnia Cantica uit Zaventem en met d'Harmonie onder leiding van Gregory Willems, 
+op 21 november om 20 uur in de Sint-Martinuskerk te Asse. De solisten zijn sopraan Marnie Deweer, alt Anna Nuytten, tenor Joris Bosman
+en bas Johan Van der Beken.</p>
+
+<p>De tickets zijn <a href="https://shop.stamhoofd.be/requiem">online verkrijgbaar</a></p>
+
+<p>Mis het niet!</p>
 </div>  
 
