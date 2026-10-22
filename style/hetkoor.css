@@ -108,6 +108,13 @@ tr td {
 /*  width: 5%; */
 }
 
+.main img {
+    width: 100%;
+    height: auto; /* Behoudt de juiste verhoudingen van de foto */
+    display: block; /* Zorgt dat ze netjes onder elkaar komen */
+    margin-bottom: 10px; /* Voegt wat witruimte toe onder elke foto */
+}
+
 /* Footer */
 .footer {
   padding: 20px;

@@ -9,7 +9,7 @@
 <div><img src="images/DSC5259.jpg"/></div>
 <div><img src="images/DSC5248.jpg"/></div>
 <div><img src="images/DSC5242.jpg"/></div>
-<div><img src="images/check.png" width="100%" />  </div>
+<div><img src="images/check.png" width="60%" />  </div>
 </p>
 </div>
 <div class="pub-date">21 december 2018 5:02 pm</div>
