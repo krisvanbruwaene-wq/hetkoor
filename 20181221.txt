@@ -3,14 +3,14 @@
 <div align="center">
 <h3>Kerstconcert: 1000 euro voor de Warmste&nbsp;Week</h3>
 <p>
-<img src="https://hetkoor.wordpress.com/wp-content/uploads/2018/12/DSC5271.jpg?w=500"/>
-<img src="https://hetkoor.wordpress.com/wp-content/uploads/2018/12/DSC5292.jpg?w=500"/>
-<img src="https://hetkoor.wordpress.com/wp-content/uploads/2018/12/DSC5325.jpg?w=500"/>
-<img src="https://hetkoor.wordpress.com/wp-content/uploads/2018/12/DSC5279.jpg?w=500"/>
-<img src="https://hetkoor.wordpress.com/wp-content/uploads/2018/12/DSC5259.jpg?w=500"/>
-<img src="https://hetkoor.wordpress.com/wp-content/uploads/2018/12/DSC5248.jpg?w=500"/>
-<img src="https://hetkoor.wordpress.com/wp-content/uploads/2018/12/DSC5242.jpg?w=500"/>
-<img src="https://hetkoor.wordpress.com/wp-content/uploads/2018/12/check.png?w=500"/>
+<img src="images/DSC5271.jpg?w=500"/>
+<img src="images/DSC5292.jpg?w=500"/>
+<img src="images/DSC5325.jpg?w=500"/>
+<img src="images/DSC5279.jpg?w=500"/>
+<img src="images/DSC5259.jpg?w=500"/>
+<img src="images/DSC5248.jpg?w=500"/>
+<img src="images/DSC5242.jpg?w=500"/>
+<img src="images/check.png?w=500"/>
 </p>
 </div>
 <div class="pub-date">21 december 2018 5:02 pm</div>
