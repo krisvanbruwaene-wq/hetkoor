@@ -1,6 +1,6 @@
 <h2>Maandelijks archief: <i>december 2018</i></h2>
 
-<div align="center">
+<div align="left">
 <h3>Kerstconcert: 1000 euro voor de Warmste&nbsp;Week</h3>
 <div><img src="images/DSC5271.jpg"/></div>
 <div><img src="images/DSC5292.jpg"/></div>
@@ -9,7 +9,7 @@
 <div><img src="images/DSC5259.jpg"/></div>
 <div><img src="images/DSC5248.jpg"/></div>
 <div><img src="images/DSC5242.jpg"/></div>
-<div><img src="images/check.png"/>  </div>
+<div><img src="images/check.png" width="100%" />  </div>
 </p>
 </div>
 <div class="pub-date">21 december 2018 5:02 pm</div>
