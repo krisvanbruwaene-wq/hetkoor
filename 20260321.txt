@@ -1,4 +1,5 @@
 <div align="left">
+<h2>Maandelijks archief: <i>maart 2026</i></h2>
 <h3>In the spotlights</h3>
 <p>Zaterdag 21 maart traden we op met het strijkorkest van de KunstAs-academie in ons jaarlijks toonmoment, 
 van 10.00 tot 11.00 uur in de podiumzaal van de academie.</p>
@@ -7,7 +8,6 @@ van 10.00 tot 11.00 uur in de podiumzaal van de academie.</p>
 
 <p>Programma:</p>
 <table border="0">
-
 <tr><td>Dragon Hunter            </td><td>Richard Meyer                                   </td></tr>                                                                         
 <tr><td>Strings on Fire          </td><td>C.M. Bernotas / arr. Pietro Bocca Dell’Inferno  </td></tr>
 <tr><td>How to Train Your Octopus</td><td>James Powell / arr. Pietro Bocca Dell’Inferno   </td></tr>
