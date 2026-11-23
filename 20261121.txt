@@ -1,4 +1,5 @@
 <div align="left">
+<h2>Maandelijks archief: <i>21 november 2026</i></h2>
 <h3>Mozarts Requiem</h3>
 <p>
 Een hoogtepunt van de koormuziek. Mozarts laatste werk, geschreven op zijn doodsbed. 
@@ -10,7 +11,7 @@ De innige verwevenheid van tekst en muziek illustreren de genialiteit van Mozart
 op 21 november om 20 uur in de Sint-Martinuskerk te Asse. De solisten waren sopraan Marnie Deweer, alt Anna Nuytten, tenor Joris Bosman
 en bas Johan Van der Beken.</p>
 
-<p>Het concert was <b>uitverkocht</b>.</p>
+<p>Het concert was uitverkocht.</p>
 
 <!--<p>De tickets zijn <a href="https://shop.stamhoofd.be/requiem" style="text-decoration: underline; text-decoration-color: blue">online verkrijgbaar</a></p>-->
 </div>  
