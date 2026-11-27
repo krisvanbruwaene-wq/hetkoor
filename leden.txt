@@ -46,7 +46,7 @@
 				 <td>Annie Vervondel      </td> <td>Petra Wynants          </td>
 			</tr>                         
 			<tr>                          
-				 <td>Blerina Vila         </td>>
+				 <td>Blerina Vila         </td>
 			</tr>                         
 			<tr>                          
 				 <td>Anne Willemyns       </td>
