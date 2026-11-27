@@ -4,43 +4,46 @@
 				 <th>Sopranen</th>			    <th>Alten</th>					        <th>Tenoren           </th>	<th>Bassen</th>
 			</tr>                                                                                            
             <tr>                                                                                             
-			     <td>Mieke Butstraen      </td>	<td>Christel Cornelissen  </td>	        <td>Michel Uyen       </td>	<td>Wilfried Bornauw  </td>
-			</tr>                                                                                                                          
-			<tr>                                                                                                                           
-				 <td>Agnes Cayman         </td>	<td>Marleen De Koster     </td>         <td>Marc Van Avermaet </td>	<td>Lode Gerits       </td>
-			</tr>                                                                                                                                
-			<tr>                                                                                                                                 
-				 <td>Julia Cooremans      </td>	<td>Els De Smedt          </td>			<td>Ida Van Cappellen </td>	<td>Frank Mertens     </td>
+			     <td>Mieke Butstraen      </td>	<td>Bérénice Amerijckx     </td>	    <td>Michel Uyen       </td>	<td>Wilfried Bornauw  </td>
+			</tr>                                                                                           
+			<tr>                                                                                            
+				 <td>Agnes Cayman         </td>	<td>Christel Cornelissen   </td>        <td>Marc Van Avermaet </td>	<td>Lode Gerits       </td>
+			</tr>                                                                                                                                 
+			<tr>                                                                                                                                  
+				 <td>Julia Cooremans      </td>	<td>Marleen De Koster      </td>		<td>Ida Van Cappellen </td>	<td>Frank Mertens     </td>
 		    </tr>                                                                                                                           
 			<tr>                                                                                                                            
-				 <td>Josy De Brauwer      </td>	<td>Elke D’hoore          </td>			<td>Jozef Van Laeken  </td>	<td>Joris Thomas      </td>
-			</tr>                                                                                                         
-			<tr>                                                                                                          
-				 <td>Liesbet De Koster    </td>	<td>Dany Heuvelmans        </td>		<td>Johan Van Wilder  </td>	<td>Kris Van Bruwaene </td>
-	        </tr>                                                                                                         
-	        <tr>                                                                                                          
-			 	 <td>Valerie Gheysens     </td>	<td>Agnes Rogiers          </td>		<td>                  </td>	<td>Johan Van der Beken</td>
+				 <td>Josy De Brauwer      </td>	<td>Els De Smedt           </td>		<td>Jozef Van Laeken  </td>	<td>Joris Thomas      </td>
+			</tr>                                                                                                          
+			<tr>                                                                                                           
+				 <td>Liesbet De Koster    </td>	<td>Elke D’hoore           </td>		<td>Johan Van Wilder  </td>	<td>Kris Van Bruwaene </td>
+	        </tr>                                                                         
+	        <tr>                                                                          
+			 	 <td>Valerie Gheysens     </td>	<td>Marijke Eenens         </td>		<td>                  </td>	<td>Johan Van der Beken</td>
 		    </tr>                                                                                                                                
 		    <tr>                                                                                                                                 
-				 <td>Kathy Janssens       </td>	<td>Christine Vandefonteyne</td>		<td>                  </td>	<td>Jo Van Hove        </td>
-			</tr>                                                                       
-			<tr>                                                                        
-				 <td>Maria Legrand        </td>	<td>Rita Vandeloo          </td>
+				 <td>Kathy Janssens       </td>	<td>Dany Heuvelmans        </td>		<td>                  </td>	<td>Jo Van Hove        </td>
+			</tr>                                                               
+			<tr>                                                                
+				 <td>Maria Legrand        </td>	<td>Marleen Lauwers        </td>
+			</tr>                                       
+			<tr>                                        
+				 <td>Cecile Raeymaekers   </td>	<td>Agnes Rogiers          </td>
+		    </tr>                                                               
+		    <tr>                                                                
+				 <td>Claudia Terhagen     </td> <td>Christine Vandefonteyne</td>
+		    </tr>                                                               
+		    <tr>                                                                
+				 <td>Nele Van Hove        </td> <td>Rita Vandeloo          </td>
 			</tr>                               
 			<tr>                                
-				 <td>Cecile Raeymaekers   </td>	<td>Marianne Vandenbussche </td>
-		    </tr>                                    
-		    <tr>                                     
-				 <td>Nele Van Hove        </td> <td>Ann Wille              </td>
+				 <td>Lutgarde Van Laeken  </td> <td>Marianne Vandenbussche </td>
 			</tr>                               
 			<tr>                                
-				 <td>Lutgarde Van Laeken  </td> <td>Petra Wynants          </td>
-			</tr>                               
-			<tr>                                
-				 <td>Christel Van Medegael</td> 
-			</tr>
-			<tr> 
-				 <td>Annie Vervondel      </td>
+				 <td>Christel Van Medegael</td> <td>Ann Wille              </td>
+			</tr>                                   
+			<tr>                                     
+				 <td>Annie Vervondel      </td> <td>Petra Wynants          </td>
 			</tr>                         
 			<tr>                          
 				 <td>Blerina Vila         </td>>
